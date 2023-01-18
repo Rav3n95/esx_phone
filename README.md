@@ -1,4 +1,4 @@
-# esx_phone
+<h1 align='center'>[ESX] Phone</a></h1><p align='center'><b><a href='https://discord.esx-framework.org/'>Discord</a> - <a href='https://documentation.esx-framework.org/legacy/installation'>Documentation</a></b></h5>
 
 ### Note
 - All scripts that implement the usage of esx phone must be started **after** this script, or else they won't register and no messages will be received.
@@ -7,17 +7,17 @@
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/esx_phone
+fvm install --save --folder=esx esx-framework/esx_phone
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_phone [esx]/esx_phone
+git clone https://github.com/esx-framework/esx_phone [esx]/esx_phone
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_phone/archive/master.zip
+- Download https://github.com/esx-framework/esx_phone/archive/master.zip
 - Put it in the `[esx]` directory
 
 - Import `esx_phone.sql` in your database
@@ -60,7 +60,7 @@ last two booleans are optional
 ### License
 esx_phone - phone script for fivem
 
-Copyright (C) 2015-2022 Jérémie N'gadi
+Copyright (C) 2015-2023 Jérémie N'gadi
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
